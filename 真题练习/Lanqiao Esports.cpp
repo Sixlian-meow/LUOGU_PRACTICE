@@ -12,7 +12,7 @@ void solve(){
 		cin>>a[i];
 		sum=sum+a[i];
 	}
-	if(sum%5!=0||sum==0){
+	if(sum%5!=0){
 		cout<<"F\n";
 		return;
 	}
