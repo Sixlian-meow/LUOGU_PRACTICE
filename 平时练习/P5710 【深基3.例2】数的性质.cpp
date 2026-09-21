@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//P5710 【深基3.例2】数的性质
 int x;
 int main(){
 	cin>>x;
